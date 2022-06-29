@@ -1,2 +1,11 @@
 node_modules
+npm-debug.log
 .DS_Store
+/*.env
+dist
+.idea
+/logs
+*.log
+.env
+.vscode
+newrelic_agent.log
